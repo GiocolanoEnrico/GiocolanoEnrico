@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Giocolano Enrico
+- 👋 Hi, I’m @GiocolanoEnrico
 - 🌱 I’m currently learning c++, c#, java
 - 📫 How to reach me giocolanoenrico19@itisvinci.com
 
